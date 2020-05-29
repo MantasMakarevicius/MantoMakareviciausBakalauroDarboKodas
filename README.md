@@ -1,0 +1,2 @@
+# MantoMakareviciausBakalauroDarboKodas
+Bakalauro darbo tyrimams naudotos funkcijos
